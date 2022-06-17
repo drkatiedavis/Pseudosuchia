@@ -9,3 +9,5 @@ Pseudosuchia_DataMatrix.tnt - final data matrix used to build the Pseudosuchia p
 Pseudosuchia_Phylogeny.tre - Final Pseudosuchia phylogeny.
 
 Pseudosuchia_TransferEntropy.R - R script for carrying out the Transfer Entropy analyses.
+
+SourceData.zip - contains all source matrices and taxonomic reconciliation data.
